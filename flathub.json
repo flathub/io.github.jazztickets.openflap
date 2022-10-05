@@ -1,4 +1,5 @@
 {
   "end-of-life": "The application has been renamed to io.gitlab.jazztickets.openflap",
-  "end-of-life-rebase": "io.gitlab.jazztickets.openflap"
+  "end-of-life-rebase": "io.gitlab.jazztickets.openflap",
+  "publish-delay-hours": 0
 }
