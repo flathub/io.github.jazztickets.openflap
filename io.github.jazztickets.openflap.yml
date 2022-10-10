@@ -22,3 +22,5 @@ modules:
       - type: archive
         url: https://gitlab.com/jazztickets/uploads/-/raw/main/openflap-1.0.4r66-src.tar.gz
         sha256: daf017025e0edcf4f8fac8d5d4a7d43f6b68e207333e667f6242de6de1e75b3f
+      - type: patch
+        path: url.patch
